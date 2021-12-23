@@ -18,8 +18,13 @@ There are several projects that you can expect from me in the near future. Some 
 - `ai-researcher` A project to accelerate scientific research by suggesting novel research ideas
 
 ### Contact :globe_with_meridians:
-If you want to discuss more and colab with me, feel free to reach out and have a chat. 
+If you want to discuss more and colab with me, feel free to reach out and have a chat 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/gerasimos-chatzoudis/)
+
+
+
 <!--
+
 **jerrychatz/jerrychatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
