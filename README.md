@@ -2,7 +2,7 @@
 ---
 
 ### Who am I :raising_hand:
-I will introduce myself as an x-professional chess player, a philosophile AI enthusiast, and a PhD student in Machine Learning at Rutgers University under the supervision of Professor ![Dimitris Metaxas]()https://scholar.google.com/citations?user=a7VNhCIAAAAJ&hl=en :dart: 
+I will introduce myself as an x-professional chess player, a philosophile AI enthusiast, and a PhD student in Machine Learning at Rutgers University under the supervision of Professor [Dimitris Metaxas](https://scholar.google.com/citations?user=a7VNhCIAAAAJ&hl=en) :dart: 
 
 I am also into art :art: like a lot! But I also love AI. So, the fusion was inevitable 💥. You may guess that I am a tech guy :robot: but what you do not know is that I have always been into literature and ancient Greek as a high-school student :books:. Now it may make some sense why I try to generate philosophical content using Transformers.
 <!--
